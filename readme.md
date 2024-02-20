@@ -32,7 +32,7 @@ Este é um projeto de um chat bot para lanchonetes e usamos a loja Sandurei como
 Contribuições são bem-vindas! Se você quiser contribuir para este projeto, por favor, siga as diretrizes de contribuição e envie um pull request.
 
 ## Licença
-Este projeto está licenciado sob a [GroupSEVEN Solutions].
+[Apache 2.0](LICENSE)
 
 ## Link de Incrementação
 [Link para a apresentação em slides]((https://drive.google.com/drive/folders/1sW9d2TnksXivEzjM6AruTUKA66hZoTCG?usp=sharing)https://drive.google.com/drive/folders/1sW9d2TnksXivEzjM6AruTUKA66hZoTCG?usp=sharing)
